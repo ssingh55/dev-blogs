@@ -69,5 +69,3 @@ By embracing cloud-native development, you can reap significant benefits:
 * __Reduced costs__: Pay only for the resources you use, eliminating unnecessary infrastructure expenses.
 * __Increased agility__: Adapt to changing needs easily.
 * __Improved developer experience__: Focus on creating amazing applications, not managing infrastructure complexities.
-
-Are you ready to revolutionize your application development process? Join the cloud-native movement and experience the difference!
